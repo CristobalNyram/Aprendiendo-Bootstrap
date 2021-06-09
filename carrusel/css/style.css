@@ -1,0 +1,9 @@
+#carouselExampleControls
+.carousel-inner 
+img{
+    max-height: 400px;
+    object-fit: cover;
+    filter:blur(100px);
+    
+
+}

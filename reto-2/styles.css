@@ -1,0 +1,10 @@
+.container .row
+{
+    background-color: aqua;
+ 
+}
+
+div[class^="col-"], .col 
+{
+    border:.01px solid red;
+}

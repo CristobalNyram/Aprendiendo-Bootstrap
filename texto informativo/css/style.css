@@ -1,0 +1,26 @@
+#carouselExampleControls
+.carousel-inner 
+img{
+    max-height: 400px;
+    object-fit: cover;
+    
+    
+
+}
+
+
+/*  AQUI LE PODREMOS CREAR UN SUB-FILTRO A NUESTRA IMAGEN PARA ESCRIBIR AHI NUESTROS TEXTO */
+#carouselExampleControls
+{
+    position:relative;
+}
+#carouselExampleControls .overlay
+{
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background-color: rgb(0,0,0,0.2);
+    color: white;
+}
