@@ -1,0 +1,8 @@
+Un tooltip nos mostrara informacion extra cuando colocamos el mause encima del objeto de
+
+
+en bootrap lo encontramos como como abreviationes
+la etiqueta es <abbr></abbr>
+
+
+se le puede cambiar de lugar  con las clases de bootrap, left,top
