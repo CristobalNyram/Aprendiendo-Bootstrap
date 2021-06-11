@@ -1,0 +1,7 @@
+En este curso aprendi como hacer push al repositorio con el siguiente comando el
+
+
+git push -u origin NombreBranch -
+
+o podemos ponerle este nombre "gh-pages"
+ y nos crear el git pages automaticamente(git crear por nosotros para hacer deploy)
